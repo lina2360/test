@@ -11,7 +11,7 @@ public class Main {
 		System.out.println(dia + " BMI: " + res); 
                
 	}
-	
+	//1234567653212345
 	public static double getBMI(String[] data) {
 		// 1. calculate the bmi 
 		return 0;
